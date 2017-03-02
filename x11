@@ -1,0 +1,2 @@
+#!/bin/sh
+xinit /home/jon/xinitrc -- /bin/X -br

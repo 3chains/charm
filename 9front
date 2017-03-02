@@ -1,0 +1,2 @@
+#!/bin/sh
+qemu-system-x86_64 -sdl -no-frame -m 2048 -soundhw ac97 9front.img &
